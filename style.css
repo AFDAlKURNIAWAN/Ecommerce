@@ -1,0 +1,43 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+.bob {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(129, 229, 244, 1) 100%
+  );
+}
+
+.lol {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(129, 229, 244, 1) 0%,
+    rgba(255, 255, 255, 1) 100%
+  );
+}
+
+.bib {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(129, 229, 244, 1) 100%
+  );
+}
+
+.kok {
+  background: rgb(2, 0, 36);
+  background: linear-gradient(
+    180deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(129, 229, 244, 1) 100%
+  );
+}
